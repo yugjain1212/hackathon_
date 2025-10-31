@@ -3,9 +3,9 @@
 ## Team Members
 
 - **Yug**
-- **Ashish**
-- **Aayan**
-- **Bhavesh**
+- **Ashish Beniwal**
+- **Ayaan Mathur**
+- **Bhawesh Chandnani**
 - **Vaishnavi**
 - **chestha**
 
